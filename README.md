@@ -81,8 +81,8 @@ pip install torch transformers datasets peft trl accelerate bitsandbytes pandas 
 Clone the repository:  
 
 ```bash
-git clone https://github.com/your-username/javascript-code-review-llm.git
-cd javascript-code-review-llm
+git clone https://github.com/nabeeljamshed23/PR_CodeReviewer.git
+cd PR_CodeReviewer
 ```
 
 Download the dataset (`javascript_dataset_fully_unique.xlsx`) and place it in the root directory.  
@@ -184,8 +184,3 @@ Contributions are welcome! You can:
 
 Submit **issues** or **pull requests** on GitHub.  
 
----
-
-## 📜 License  
-
-This project is licensed under the **MIT License**.  
